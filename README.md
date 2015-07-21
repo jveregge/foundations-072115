@@ -1,6 +1,7 @@
 # Welcome to GitHub Foundations
 
 - Trainers: @patrickmckenna and @crichID
+- [Log in for class slides](http://learngithub.roninlabs.io/events/mFQzvYl1Yq8UczcKtZuP)
 
 ## Class Goals
 
